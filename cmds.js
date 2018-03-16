@@ -313,7 +313,7 @@ exports.playCmd = rl => {
  */
 exports.creditsCmd = rl =>{
 	log('Autor de la práctica.');
-	log('Iñaki de las Heras Pinto.','green');
+	log('Ignacio de las Heras Pinto.','green');
 	rl.prompt();
 };
 
