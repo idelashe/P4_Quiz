@@ -1,2 +1,2 @@
-Segunda entrega de CORE, javascript.
+Tercera entrega de CORE, javascript.
 Autor: Iñaki de las Heras Pinto.
