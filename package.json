@@ -16,9 +16,8 @@
   "license": "Unlicense",
   "dependencies": {
     "chalk": "^2.3.2",
-    "cmds": "0.0.3",
     "figlet": "^1.2.0",
-    "model": "^6.0.1",
-    "out": "^1.0.0"
+    "sequelize": "^4.37.0",
+    "sqlite3": "^4.0.0"
   }
 }
